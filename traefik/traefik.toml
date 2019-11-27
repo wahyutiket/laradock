@@ -19,5 +19,5 @@ onHostRule = true
   [acme.httpChallenge]
     entryPoint = "http"
 
-[[acme.domais]]
+[[acme.domains]]
   main = "localhost"
